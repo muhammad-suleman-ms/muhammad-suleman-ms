@@ -3,11 +3,11 @@
 
 Email Me 👉 ✉️ **muhammadsuleman30000@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**AI Based Interviewer**
+- 🔭 **I’m currently working on:** AI Based Interviewer
 - 🌱 **I’m currently learning:**RAG** 
-- 📫 **How to reach me:**muhammadsuleman30000@gmail.com**
-- 😄 **Pronouns:**Solomon**
-- ⚡ **Fun fact:**I Love Tech and Tech Love Me**
+- 📫 **How to reach me:** muhammadsuleman30000@gmail.com
+- 😄 **Pronouns:** Solomon
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🔗 I am a Software Engineer. 😊😊
 
