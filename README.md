@@ -1,3 +1,15 @@
+# 💫 Hi 👋, I'm Muhammad Suleman
+**A passionate Software Engineer**
+
+Email Me 👉 ✉️ **muhammadsuleman30000@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** AI Based Interviewer 
+- 🌱 **I’m currently learning:** RAG
+- 📫 **How to reach me:** muhammadsuleman30000@gmail.com
+- 😄 **Pronouns:** Solomon
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🔗 I am a Software Engineer. 😊😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viper_915) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadsuleman-ms) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadsuleman30000@gmail.com) 
