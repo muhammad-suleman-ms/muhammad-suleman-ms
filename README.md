@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Muhammad Suleman
 **A passionate Software Engineer**
 
-Email Me 👉 ✉️ **muhammadsuleman30000@gmail.com** For Collaboration/Project or Anything Else.
+Email Me 👉 ✉️ **muhammadsuleman30000@gmail.com** For Collaboration/Project or Anything Else.😍
 
 - 🔭 **I’m currently working on:** AI Based Interviewer
 - 🌱 **I’m currently learning:** RAG
