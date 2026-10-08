@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **muhammadsuleman30000@gmail.com** For Collaboration/Projec
 - 🔭 **I’m currently working on:** AI Based Interviewer
 - 🌱 **I’m currently learning:** RAG
 - 📫 **How to reach me:** muhammadsuleman30000@gmail.com
-- 💻 **Portfolio:** https://muhammadsuleman-xyz.vercel.app/
+- 💻 **Portfolio:** https://ms-seven-red.vercel.app/
 - 😄 **Pronouns:** Solomon
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
